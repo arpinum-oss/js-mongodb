@@ -1,0 +1,31 @@
+{
+  "name": "@arpinum/mongodb",
+  "version": "0.0.1",
+  "description": "Promise friendly wrapper around mongodb js driver.",
+  "main": "index.js",
+  "files": [
+    "index.js",
+    "lib"
+  ],
+  "scripts": {
+    "test": "./node_modules/.bin/eslint .",
+    "preversion": "npm test",
+    "postversion": "git push && git push --tags && npm publish"
+  },
+  "repository": "arpinum-oss/js-mongodb",
+  "keywords": [
+    "Mongo",
+    "Database"
+  ],
+  "author": "Arpinum",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^1.10.3",
+    "eslint-config-arpinum": "^1.2.0"
+  },
+  "dependencies": {
+    "bluebird": "^3.1.1",
+    "lodash": "^4.0.1",
+    "mongodb": "^2.1.2"
+  }
+}
