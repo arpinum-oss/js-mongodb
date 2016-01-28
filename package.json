@@ -1,6 +1,6 @@
 {
   "name": "@arpinum/mongodb",
-  "version": "0.0.4",
+  "version": "0.0.5",
   "description": "Promise friendly wrapper around mongodb js driver.",
   "main": "index.js",
   "files": [
