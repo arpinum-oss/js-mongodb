@@ -20,7 +20,7 @@
   "author": "Arpinum",
   "license": "MIT",
   "devDependencies": {
-    "eslint": "^1.10.3",
+    "eslint": "^2.0.0",
     "eslint-config-arpinum": "^1.2.0"
   },
   "dependencies": {
