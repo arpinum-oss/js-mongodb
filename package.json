@@ -21,7 +21,7 @@
   "license": "MIT",
   "devDependencies": {
     "eslint": "^2.0.0",
-    "eslint-config-arpinum": "^1.2.0"
+    "eslint-config-arpinum": "^3.0.0"
   },
   "dependencies": {
     "bluebird": "^3.1.1",
