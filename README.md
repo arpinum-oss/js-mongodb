@@ -2,6 +2,8 @@
 
 **js-mongodb** is a promise friendly wrapper around mongodb js driver.
 
+This project is unmaintained.
+
 ## License
 
 [MIT](LICENSE)
